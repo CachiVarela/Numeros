@@ -1,0 +1,17 @@
+body{
+    background-color: dodgerblue;
+    height: 100vh;
+    font-size: 70px
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.numeros{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
